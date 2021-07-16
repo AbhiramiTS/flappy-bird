@@ -1,3 +1,3 @@
 # Flappy Bird Game
 
-### Flappy bird game built using Pygame
+### Flappy bird built using Pygame
